@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://instagram.com/theraj7171">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd4cmJoNmxveDRta3kwYnkzNDc2NG4wdWdua2JwYTVzbDBjcmI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" alt="MasterHead" style="width: 100%; max-width: 100%;">
+  </a>
+</div>
+
+</div>
+
 <h1 align="center">Hi 👋, I'm RAJ</h1>
 <h3 align="center">A passionate Aspiring Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
