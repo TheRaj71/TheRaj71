@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJ</h1>
 <h3 align="center">A passionate Aspiring Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/anonymous-m3lszq64i1k2s">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
 
 - 🔭 I’m currently working on **Project Insidious**
 
