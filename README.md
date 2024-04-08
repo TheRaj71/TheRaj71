@@ -6,8 +6,19 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm RAJ</h1>
-<h3 align="center">A passionate Aspiring Software developer from India</h3>
+
+<div align="center" style="margin-left: 50px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=700&random=false&width=435&lines=%3E+_;Hello%2C+I'm+Raj;Aspiring+Software+Dev;+%3E+%2F%2F+Exploring+the+frontiers+of+AI;%3E+%7B+Understanding+the+dark+web+%7D;Building+Bots+%26+Trying+To+Solve+Real+Life+Problems" alt="Typing SVG">
+  </a>
+</div>
+
+
+
+
+<h3 align="center">A passionate Aspiring Software developer </h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
 
 - 🔭 I’m currently working on **Project Insidious**
