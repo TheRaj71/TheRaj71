@@ -87,7 +87,7 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31drg4t5wpqyf6btrlccvjzm6bd4" alt="Play Card for Spotify">
 </a>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
