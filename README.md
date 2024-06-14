@@ -83,7 +83,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br>  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 </div>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31drg4t5wpqyf6btrlccvjzm6bd4">
+
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31drg4t5wpqyf6btrlccvjzm6bd4" alt="Play Card for Spotify">
 </a>
 
