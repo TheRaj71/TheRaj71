@@ -57,6 +57,8 @@
 
 [![TheRaj71's GitHub | Topics Over Time](https://stats.quine.sh/TheRaj71/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheRaj71)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/TheRaj71)
+
 
 
 ### ✍️ Random Dev Quote
