@@ -58,10 +58,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theraj71&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![TheRaj71's GitHub | Languages Over Time](https://stats.quine.sh/TheRaj71/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheRaj71)
-
-[![TheRaj71's GitHub | Topics Over Time](https://stats.quine.sh/TheRaj71/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheRaj71)
-
+[![TheRaj71's GitHub | Languages Over Time](https://stats.quine.sh/TheRaj71/languages-over-time?theme=dark)]
+[![TheRaj71's GitHub | Topics Over Time](https://stats.quine.sh/TheRaj71/topics-over-time?theme=dark)]
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/TheRaj71)
 
 
