@@ -65,6 +65,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/TheRaj71)
 
 
+![snake gif](https://github.com/TheRaj71/TheRaj71/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
