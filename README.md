@@ -34,8 +34,19 @@
 - 📫 How to reach me **theraj05@duck.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
+
+[![💀 Sponsor TheRaj71](https://img.shields.io/badge/Sponsor-⚡THE%20RAJ⚡-black?style=for-the-badge&logo=github-sponsors&logoColor=red)](https://github.com/sponsors/TheRaj71)
+
+
+
+
+
+
+
+
 
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
