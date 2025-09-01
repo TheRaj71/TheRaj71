@@ -21,11 +21,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
 
-- 🔭 I’m currently working on **Project Insidious**
+- 🔭 I’m currently working on **Saas**
 
-- 🌱 I’m currently learning **Tensorflow , Mern**
+- 🌱 I’m currently learning **OCAML & RUST**
 
-- 👯 I’m looking to collaborate on **Project Dark Web**
+- 👯 I’m looking to collaborate on **Dark Web and Hackathons Project**
 
 - 🤝 I’m looking for help with **GoLang**
 
