@@ -1,50 +1,49 @@
+<!-- MasterHead -->
 <div align="center">
   <a href="https://instagram.com/theraj7171">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd4cmJoNmxveDRta3kwYnkzNDc2NG4wdWdua2JwYTVzbDBjcmI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" alt="MasterHead" style="width: 100%; max-width: 100%;">
   </a>
 </div>
 
+<!-- Blue Text -->
+<div align="center" style="margin: 20px 0;">
+  <span style="color:#326CE5; font-weight:bold; font-size:36px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Indian Flag" width="50" height="50" />
+    The Raj
+  </span>
 </div>
 
+<!-- Heading -->
+<h3 align="center" style="text-decoration: underline;">Software Development Engineer</h3>
 
-<div align="center" style="margin-left: 50px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=700&random=false&width=435&lines=%3E+_;Hello%2C+I'm+Raj;Aspiring+Software+Dev;+%3E+%2F%2F+Exploring+the+frontiers+of+AI;%3E+%7B+Understanding+the+dark+web+%7D;Building+Bots+%26+Trying+To+Solve+Real+Life+Problems" alt="Typing SVG">
-  </a>
-</div>
- 
-
-
-
-<h3 align="center">A passionate Aspiring Software developer </h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheRaj71&color=800080&label=HITS" alt="HITS" />
-</div>
-
-
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
-
-- 🔭 I’m currently working on **Saas**
-
-- 🌱 I’m currently learning **OCAML & RUST**
-
-- 👯 I’m looking to collaborate on **Dark Web and Hackathons Project**
-
-- 🤝 I’m looking for help with **GoLang**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **theraj05@duck.com**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheRaj71&theme=onedark&rank=-?)](https://github.com/TheRaj71/github-profile-trophy)
-
-<h3 align="left">Sponsor:</h3>
-
-<p align="left">
+<p align="center" style="font-size: 16px; color: #666; margin-top: 5px;">
+  Advanced Algorithms | System Design | Cloud Architecture | AI/ML
 </p>
 
-[![💀 Sponsor TheRaj71](https://img.shields.io/badge/Sponsor-⚡THE%20RAJ⚡-black?style=for-the-badge&logo=github-sponsors&logoColor=red)](https://github.com/sponsors/TheRaj71)
+<div align="center">
+  <a href="https://github.com/sponsors/TheRaj71">
+    <img src="https://img.shields.io/badge/Sponsor-⚡THE%20RAJ⚡-black?style=for-the-badge&logo=github-sponsors&logoColor=red" alt="💀 Sponsor TheRaj71" />
+  </a>
+</div>
+
+
+
+<!-- Bio Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Gorilla.webp" alt="Gorilla" width="50" height="50" />
+  Currently building SaaS solutions while diving deep into OCAML & RUST programming languages. Always eager to collaborate on Dark Web research and exciting Hackathon projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Llama.webp" alt="Llama" width="50" height="50" />.
+  Looking for GoLang expertise and guidance to level up my skills. Open to discussing anything tech-related! Feel free to reach out anytime.
+</p>
+
+<!-- Contact -->
+<p align="center">
+  <strong>
+    📧 <a href="mailto:theraj05@duck.com">Contact Me</a>
+  </strong>
+</p>
+
+
 
 
 
@@ -64,7 +63,7 @@
 ## <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="35" height="35" /> Socials: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="45">
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theraj7171) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/The-Raj71) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theraj7171) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/The-Raj71)
 
 # <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" /> Tech Stack: <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
 <br><br>
@@ -88,13 +87,12 @@
 
 
 
-### ✍️ Random Dev Quote 
+### ✍️ Random Dev Quote
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-    
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -106,6 +104,11 @@
 
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31drg4t5wpqyf6btrlccvjzm6bd4" alt="Play Card for Spotify">
 </a>
+
+<!-- HITS Counter -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=TheRaj71&color=ff0000&label=HITS&style=for-the-badge" alt="HITS" />
+</div>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
