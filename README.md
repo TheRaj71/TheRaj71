@@ -28,42 +28,41 @@
 
 
 
-<!-- Bio Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Gorilla.webp" alt="Gorilla" width="50" height="50" />
-  Currently building SaaS solutions while diving deep into OCAML & RUST programming languages. Always eager to collaborate on Dark Web research and exciting Hackathon projects
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Llama.webp" alt="Llama" width="50" height="50" />.
-  Looking for GoLang expertise and guidance to level up my skills. Open to discussing anything tech-related! Feel free to reach out anytime.
-</p>
-
-<!-- Contact -->
-<p align="center">
-  <strong>
-    📧 <a href="mailto:theraj05@duck.com">Contact Me</a>
-  </strong>
-</p>
 
 
+# <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="35" height="35" /> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+## 👋 Hey, I'm Raj!
 
+I'm a 3rd year Computer Science Engineering student from Bihar, India. This GitHub account is essentially my digital playground where I experiment, build, and showcase my journey through code.
 
+Currently, I'm focusing heavily on mastering algorithms to develop a stronger problem-solving mindset. There's something fascinating about finding elegant solutions to complex problems – it's like solving puzzles that actually matter.
 
+When I'm not grinding through data structures, I'm building SaaS products and exploring the intricacies of **OCaml** and **Rust**. The precision required by these languages has taught me to think more carefully about code design and performance.
 
+### 🌟 My Open Source Philosophy
 
+I believe in privacy by default. Most of my work stays in private repositories because I prefer to iterate and perfect projects before exposing them to public scrutiny.
+However, when I do make something public, it's because I genuinely believe the community can benefit from it or contribute to making it better. I'm selective about what I share – quality and purpose over quantity.
 
+<br>
+<div align="center">
 
+## <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="35" height="35" /> Let's Connect 
 
+Got a cool project idea? Want to collaborate? Or just want to geek out about code?
 
-# <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="35" height="35" /> About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<br>Experienced developer skilled in Python, HTML, CSS, JavaScript, Golang, and more. I've crafted full-stack web apps, mobile applications, and worked with technologies like Flutter, AWS, Azure, and Cloudflare. Currently, I'm dedicated to the 'Insidious' project in the dark web domain. I'm eager to collaborate with fellow professionals who embrace creative and original ideas. You'll notice a growing number of repositories as I import projects from my old github id and release exciting open-source contributions."<br><br><br><br><br><br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500" >
-<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theraj7171) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/The-Raj71) <a href="mailto:theraj05@duck.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
+</div>
 
+<br>
 
-## <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="35" height="35" /> Socials: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="45">
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400" />
+</div>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theraj7171) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/The-Raj71)
+</div>
 
 # <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="35" height="35" /> Tech Stack: <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
 <br><br>
