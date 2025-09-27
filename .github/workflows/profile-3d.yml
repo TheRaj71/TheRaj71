@@ -14,25 +14,16 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-
-      # runs the 3D-contrib action and loads our minimal settings
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          # <-- replace this secret name if you used something else
+          # use your personal access token secret here
           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
-          # explicit username (optional; you can also keep github.repository_owner)
-          USERNAME: TheRaj71
-          # point to your minimal settings file that disables repo/stats
-          SETTING_JSON: "sample-settings/no-stats.json"
-
-      - name: Commit & Push generated images
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          # commit only the generated folder to avoid accidental other changes
-          git add -A profile-3d-contrib || true
-          if git commit -m "generated profile-3d images" ; then
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
             git push
-          else
-            echo "No changes to commit"
           fi
