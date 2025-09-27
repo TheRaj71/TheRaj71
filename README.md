@@ -20,7 +20,7 @@
   Advanced Algorithms | System Design | Cloud Architecture | AI/ML
 </p>
 
-<div align="center">
+<div align="center" style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; margin-bottom: 15px;">
   <a href="https://github.com/sponsors/TheRaj71">
     <img src="https://img.shields.io/badge/Sponsor-⚡THE%20RAJ⚡-black?style=for-the-badge&logo=github-sponsors&logoColor=red" alt="💀 Sponsor TheRaj71" />
   </a>
