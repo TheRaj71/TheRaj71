@@ -1,23 +1,26 @@
 <!-- MasterHead -->
 <div align="center">
   <a href="https://instagram.com/theraj7171">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd4cmJoNmxveDRta3kwYnkzNDc2NG4wdWdua2JwYTVzbDBjcmI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" alt="MasterHead" style="width: 100%; max-width: 100%;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd4cmJoNmxveDRta3kwYnkzNDc2NG4wdWdua2JwYTVzbDBjcmI4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11zb8pY7ziYZig/giphy.gif" alt="MasterHead" width="100%">
   </a>
 </div>
 
-<!-- Blue Text -->
-<div align="center" style="margin: 20px 0;">
-  <span style="color:#326CE5; font-weight:bold; font-size:36px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Indian Flag" width="50" height="50" />
-    The Raj
-  </span>
-</div>
+<br>
 
-<!-- Heading -->
-<h3 align="center" style="text-decoration: underline;">Software Development Engineer</h3>
+<!-- Name with Flag -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Indian Flag" width="40" height="40" />
+  The Raj
+</h1>
 
-<p align="center" style="font-size: 16px; color: #666; margin-top: 5px;">
-  Advanced Algorithms | System Design | Cloud Architecture | AI/ML
+<!-- Title -->
+<h2 align="center">
+  <u>Software Development Engineer</u>
+</h2>
+
+<!-- Skills -->
+<p align="center">
+  <strong>Advanced Algorithms | System Design | Cloud Architecture | AI/ML</strong>
 </p>
 
 <div align="center" style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; margin-bottom: 15px;">
