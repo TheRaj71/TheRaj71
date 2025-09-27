@@ -12,11 +12,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=700&random=false&width=435&lines=%3E+_;Hello%2C+I'm+Raj;Aspiring+Software+Dev;+%3E+%2F%2F+Exploring+the+frontiers+of+AI;%3E+%7B+Understanding+the+dark+web+%7D;Building+Bots+%26+Trying+To+Solve+Real+Life+Problems" alt="Typing SVG">
   </a>
 </div>
+ 
 
 
 
+<h3 align="center">A passionate Aspiring Software developer </h3>
 
-<h3 align="center">A passionate Aspiring Software developer </h3> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheRaj71&color=800080&label=HITS" alt="HITS" />
+</div>
 
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9zanI2aXllNXlmeHZsaXpxZ2Z0Z2w3Z2ZjdGJ3Yzc3dW5wM3MxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif">
@@ -32,6 +36,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **theraj05@duck.com**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheRaj71&theme=onedark&rank=-?)](https://github.com/TheRaj71/github-profile-trophy)
 
 <h3 align="left">Sponsor:</h3>
 
@@ -68,10 +74,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theraj71&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theraj71&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 🏗️ GitHub 3D Contribution Graph: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="45">
 
+<div align="center">
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
-
+</div>
 
 ![snake gif](https://github.com/TheRaj71/TheRaj71/blob/output/github-contribution-grid-snake.gif)
 
@@ -102,7 +111,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
-
-
-
